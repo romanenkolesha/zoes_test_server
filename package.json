@@ -1,0 +1,17 @@
+{
+  "name": "zoes_test_server",
+  "version": "0.0.1",
+  "description": "node server with mocked data",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "dtravin",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "json-server": "^0.10.0",
+    "uuid": "^3.0.1"
+  },
+  "devDependencies": {}
+}
